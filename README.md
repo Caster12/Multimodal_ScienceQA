@@ -1,5 +1,6 @@
 # Multimodal Scientific Question-Answering on ScienceQA
 
+- **Dataset:** ScienceQA ([Lu et al., 2022](https://arxiv.org/abs/2209.09513))
 > **Columbia Applied Deep Learning - Final Project**
 >
 > *Authors:* Vishal Menon  
